@@ -27,6 +27,9 @@
 ## 사용 방법
 
 ```bash
+git clone https://github.com/TayPark/kafka-and-elk-example
+cd kafka-and-elk-example
+
 docker-compose -f elasticsearch.yml up -d
 docker-compose -f kafka.yml up -d
 
