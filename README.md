@@ -20,8 +20,8 @@
 
 - `Docker` 가 필요합니다.
 - `Docker-compose` 가 필요합니다.
-- python3와 pip3 가 필요합니다.
-  - faker, kafka-python 모듈을 필요로 합니다.
+- `python3`와 `pip3` 가 필요합니다.
+  - **faker**, **kafka-python** 모듈을 필요로 합니다.
 - `logstash` 가 필요합니다.
 
 ## 사용 방법
